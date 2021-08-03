@@ -15,7 +15,7 @@ MVC with Flow Coordinator (Not enough scope to go with MVVM)
 Core Data used a Presistent Storage. (Core Data internally uses DB, but we need not bother about the exact implementation)
 
 # App in action
-You can check a quick demo video here
+You can check a quick demo video clicking on this screen grab
 
 [![Watch the video](https://user-images.githubusercontent.com/17071826/127970819-09ebcaef-e30c-4ef9-84a0-edfc637faf1d.png)](https://youtu.be/1l--a-QgKFE)
 
