@@ -13,3 +13,7 @@ This project has 2 screens -
 # Design
 MVC with Flow Coordinator (Not enough scope to go with MVVM)
 Core Data used a Presistent Storage. (Core Data internally uses DB, but we need not bother about the exact implementation)
+
+# App in action
+You can check a quick demo video here
+[![Demo Doccou alpha](http://share.gifyoutube.com/KzB6Gb.gif)](https://github.com/avinash-ivy/AudifySample/blob/main/AppInAction/AudifyProject.mov)
