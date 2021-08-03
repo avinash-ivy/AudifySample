@@ -14,6 +14,12 @@ This project has 2 screens -
 MVC with Flow Coordinator (Not enough scope to go with MVVM)
 Core Data used a Presistent Storage. (Core Data internally uses DB, but we need not bother about the exact implementation)
 
+# Steps to follow
+1. When you are accessing app for first time, click on import audio
+2. Once you see the meta data populated, wait for couple of seconds to save the audio to storage.
+3. Once save is done, you can edit the details of click on fetch song to fetch from storage and play.
+4. If it is not a first lauch, then you can simply click on fetch song and listen to the song. Meta data also should get populated.
+
 # App in action
 You can check a quick demo video clicking on this screen grab
 
