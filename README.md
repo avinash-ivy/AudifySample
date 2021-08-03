@@ -17,4 +17,6 @@ Core Data used a Presistent Storage. (Core Data internally uses DB, but we need 
 # App in action
 You can check a quick demo video here
 
-https://youtu.be/1l--a-QgKFE
+[![Watch the video](https://user-images.githubusercontent.com/17071826/127970666-e80db886-abe2-4868-9836-9760236fcbd0.png)](https://youtu.be/1l--a-QgKFE)
+
+
